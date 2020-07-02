@@ -6,5 +6,7 @@ Aprender sobre construção de extensões do Chrome;
 
 Entender manipulação de DOM e gerenciamento de Evento;
 
-Enviar eventos através de websockets.
+Enviar eventos na DOM através de websockets.
+
+Extrair xpath do nó na DOM
 
